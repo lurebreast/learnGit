@@ -14,6 +14,7 @@
 11. 日志系统 ~~11. Redis Log 已废弃~~
 12. 错误处理
 
+![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 ---
 
 ## 1. 介绍
